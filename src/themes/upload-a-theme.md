@@ -37,7 +37,8 @@ I promise it doesn't take long :)
   auto:
   snippet:
   featured: 
-  style: dark
+  style: blue
+ 
   tags: []
   ghcommentid: 441
   layout: product # DON'T CHANGE
